@@ -6,5 +6,6 @@ GraphQL API + typescript + React 참고용
 ## Set up
 
 ```
-yarn add styled-components @types/styled-components react-router-dom apollo-boost @apollo/react-hooks graphql
+yarn add styled-components react-router-dom apollo-boost @apollo/react-hooks graphql
+yarn add @types/styled-components @types/react-router-dom
 ```
